@@ -6,6 +6,6 @@ public class Main {
         System.out.println("需求就是因为掉了头发才加的");
         System.out.println("长胖的唯一祸源就是因为给师弟减了需求!");
         System.out.println("掉头发了掉头发了");
-        System.out.println("我是光头了没头发啦！");
+        System.out.println("hahaahahah！");
     }
 }
